@@ -8,4 +8,4 @@ LISTAGEM
 ![listagem](listagem.png)
 
 GIT
-![git](git.PNG)
+![git](git.png)
